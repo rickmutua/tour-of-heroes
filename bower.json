@@ -1,0 +1,17 @@
+{
+  "name": "heroes",
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.1.",
+  "main": "karma.conf.js",
+  "authors": [
+    "Erick <rick.mutua12@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
